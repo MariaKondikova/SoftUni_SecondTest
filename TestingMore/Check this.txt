@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="html_css_hm" href="html_css_hm.css">
+    <title>HTML Homework</title>
+</head>
+<body>    
+
+<h1>HTML and CSS homework</h1>
+<h2>My homework should meet all the requiermnetns!</h2>
+
+<p>I am learnign <strong>HTML</strong> and <strong>CSS!</strong></p>
+<p>It is hard, but will <bold> succeed.</bold></p>
+
+
+</body>
+</html>
